@@ -10,4 +10,4 @@ A dark shell theme that blends the best of atelier themes with ocean hues.
 3. Optionally open up Terminal or iTerm  preferences for more options.
 
 ## License
-This project is not licensed and is free for anyone to use.
+This project is licensed under the MIT [license](LICENSE).
